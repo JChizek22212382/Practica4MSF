@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MathLAB
+message: 'Lenguaje, m'
+type: software
+authors:
+  - given-names: Josué
+    family-names: Chizek
+    email: L22212382@tectijuana.edu
+    affiliation: Tec-NM-ITT
+repository-code: 'https://github.com/JChizek22212382/Practica4MSF'
+keywords:
+  - Modelo matematico
+  - Simulacion numerica
+  - Eritropoyesis
+  - Ecuaciones Diferenciales Ordinarias
+  - Retroalimentacion fisiologica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-07'
